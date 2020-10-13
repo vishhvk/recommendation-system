@@ -62,7 +62,7 @@ explode=(0.1, 0),radius=1.2, autopct=&#39;%1.1f%%&#39;)
 plt.title(&#39;Recommendation System&#39;)
 plt.legend()
 plt.show()
-5.2 Naive Bayes Algorithm
+# Naive Bayes Algorithm
 class NaiveBayes:
     def __init__(self):
         self.positive_count = 0
